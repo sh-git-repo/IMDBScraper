@@ -1,0 +1,8 @@
+'''
+'''
+SEE_MORE_BTN_XPATH = '//html/body/div[2]/main/div[2]/div[3]/section/section/div/section/section/div[2]/div/section/div[2]/div[2]/div[2]/div/span/button'
+TITLES_UL_XPATH = '//html/body/div[2]/main/div[2]/div[3]/section/section/div/section/section/div[2]/div/section/div[2]/div[2]/ul'
+TOTAL_NUMBER_XPATH = '//html/body/div[2]/main/div[2]/div[3]/section/section/div/section/section/div[2]/div/section/div[2]/div[2]/div[1]/div[1]'
+TITLE_LINKS_CSSPATH = 'ul li a.ipc-title-link-wrapper'
+YEAR_PATH1 = 'ul.ipc-inline-list:nth-child(2) > li:nth-child(1) > a:nth-child(1)'
+YEAR_PATH2 = 'ul.ipc-inline-list:nth-child(3) > li:nth-child(1) > a:nth-child(1)'
