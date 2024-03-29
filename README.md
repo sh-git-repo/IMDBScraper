@@ -1,8 +1,7 @@
 # IMDBScraper
-IMDB Movie scraper for AppKnox assignment.
+IMDB Movie (only) scraper
 
-# Evaluation criteria
-I have addressed all the points as stated in the evaluation criteria
+# About the code
 1. **Code quality**: I have followed the pep8 style guide to keep the code easy to read and understand.
 2. **Functionality**:
    * The scraper extracts all the listed requirements, Title, Year, Rating, Director(s), Cast and Plot summary.
